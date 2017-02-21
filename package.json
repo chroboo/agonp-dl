@@ -1,0 +1,17 @@
+{
+  "name": "agonp-dl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agonp-dl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "chroboo",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "fs-extra": "^2.0.0",
+    "request": "^2.79.0"
+  }
+}
